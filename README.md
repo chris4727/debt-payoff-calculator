@@ -1,2 +1,7 @@
-# debt-payoff-calculator
-A debt calculator written in R that shows the change in principal over time with regular payments, as well as time to payoff.
+# Debt payoff calculator
+
+A debt calculator written in R that shows:
+
+- The change in principal over time with regular payments
+- Time to payoff
+- Payoff date
